@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "instant-messenger",
+  "version": "1.0.0",
+  "omnibox": {
+    "keyword" : "msg"
+  },
+  "icons": {
+    "16": "bar-icon.png"
+  },
+  "background": {
+    "scripts": ["background.js"]
+  }
+}
